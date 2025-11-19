@@ -1,0 +1,40 @@
+# ===== UNITY PROJECT INSIDE TinyVerse/ =====
+
+# Ignorar librerías, caches y builds dentro del proyecto Unity
+TinyVerse/[Ll]ibrary/
+TinyVerse/[Tt]emp/
+TinyVerse/[Oo]bj/
+TinyVerse/[Bb]uild/
+TinyVerse/[Bb]uilds/
+TinyVerse/[Ll]ogs/
+TinyVerse/UserSettings/
+TinyVerse/MemoryCaptures/
+TinyVerse/sysinfo.txt
+
+# ===== METADATA Y ARCHIVOS DE IDE =====
+TinyVerse/*.pidb
+TinyVerse/*.suo
+TinyVerse/*.user
+TinyVerse/*.userprefs
+TinyVerse/*.csproj
+TinyVerse/*.sln
+TinyVerse/*.unityproj
+TinyVerse/*.booproj
+
+# Visual Studio / Rider
+TinyVerse/.vscode/
+TinyVerse/.idea/
+TinyVerse/*.tmp
+TinyVerse/*.svd
+
+# ===== ARCHIVOS DEL SISTEMA =====
+TinyVerse/.DS_Store
+TinyVerse/Thumbs.db
+
+# ===== AUTO-GENERADOS =====
+TinyVerse/exported.obj
+TinyVerse/*.apk
+TinyVerse/*.aab
+
+# ===== CRASH LOGS =====
+TinyVerse/*.stacktrace

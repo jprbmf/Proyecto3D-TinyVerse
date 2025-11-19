@@ -1,0 +1,16 @@
+* text=auto
+
+*.unity merge=unityyamlmerge
+*.prefab merge=unityyamlmerge
+*.asset merge=unityyamlmerge
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.psd binary
+*.tga binary
+*.fbx binary
+*.mp4 binary
+*.wav binary
+*.ogg binary
+*.mp3 binary
