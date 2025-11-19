@@ -13,6 +13,7 @@ TinyVerse/sysinfo.txt
 
 # ===== METADATA Y ARCHIVOS DE IDE =====
 TinyVerse/*.pidb
+TinyVerse/*.exe
 TinyVerse/*.suo
 TinyVerse/*.user
 TinyVerse/*.userprefs
