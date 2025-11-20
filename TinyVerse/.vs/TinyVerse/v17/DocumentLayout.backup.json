@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\Documents\\GitHub\\remoto3D\\TinyVerse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AF02A9E-5C26-1805-A19B-7446BB47EF26}|Assembly-CSharp.csproj|c:\\users\\mario\\documents\\github\\remoto3d\\tinyverse\\assets\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AF02A9E-5C26-1805-A19B-7446BB47EF26}|Assembly-CSharp.csproj|solutionrelative:assets\\cameraswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraSwitcher.cs",
+              "DocumentMoniker": "C:\\Users\\mario\\Documents\\GitHub\\remoto3D\\TinyVerse\\Assets\\CameraSwitcher.cs",
+              "RelativeDocumentMoniker": "Assets\\CameraSwitcher.cs",
+              "ToolTip": "C:\\Users\\mario\\Documents\\GitHub\\remoto3D\\TinyVerse\\Assets\\CameraSwitcher.cs",
+              "RelativeToolTip": "Assets\\CameraSwitcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T09:41:49.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
